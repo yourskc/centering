@@ -1,0 +1,2 @@
+skc : (1298,966)   
+car(draw white) : (1278,958) parameter used in moildev : (1320, 1017)
