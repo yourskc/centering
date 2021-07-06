@@ -27,8 +27,6 @@ Here are our procedures,
 1.5. Apply the Hough Transform to find the circle
 
 
-![alt text](001.jpg "Title")
-
 
 
 
