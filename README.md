@@ -26,6 +26,22 @@ Here are our procedures,
 
 1.5. Apply the Hough Transform to find the circle
 
+## Build and run
+
+  git clone https://github.com/yourskc/centering.git
+  
+  cd centering
+  
+  mkdir build
+  
+  cmake ..
+  
+  make 
+  
+  ./circle ../001.jpg
+
+
+
 
 
 
